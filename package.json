@@ -1,0 +1,18 @@
+{
+  "name": "pdldown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "follow-redirects": "^1.13.2",
+    "xml-js": "^1.6.11"
+  }
+}
