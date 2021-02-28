@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
+    "filenamify": "^4.2.0",
     "follow-redirects": "^1.13.2",
     "xml-js": "^1.6.11"
   }

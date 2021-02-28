@@ -2,3 +2,4 @@ downloads
 .history
 node_modules
 errorlist.txt
+yarn.lock
